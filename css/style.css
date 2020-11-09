@@ -1,0 +1,27 @@
+.form{
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+}
+.form input{
+    margin-bottom: 20px;
+}
+#diagram {
+    height: 108px;
+    width: 20px;
+    border: solid 1px;
+    margin: 40px;
+    display: flex;
+    flex-direction: column-reverse;
+}
+.green{
+    background-color: green;
+    height: 0px;
+}
+.red{
+    background-color: red;
+    height: 0px;
+}
+
+
+
